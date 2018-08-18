@@ -11,7 +11,7 @@ plot(x,y)
 " save and close  file used for plotting"
 dev.off()
 
-jpeg("test-plot-2.jpg", width = 350,
+png("test-plot-2.png", width = 350,
      height = 350)
 
 plot(x,y,xlab="This is the X axis.",
