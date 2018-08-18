@@ -16,7 +16,7 @@ jpeg("test-plot-2.jpg", width = 350,
 
 plot(x,y,xlab="This is the X axis.",
      ylab="This is the Y axis.",
-     main="Plot of X vs. Y")
+     main="Sabrina is cool.")
 
 dev.off()
 
