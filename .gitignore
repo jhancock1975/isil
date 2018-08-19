@@ -1,2 +1,9 @@
 .Rhistory
 *.swp
+*.aux
+*.log
+*.pdf
+*.tex
+*.swp
+*.toc
+*.out
